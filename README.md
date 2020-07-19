@@ -6,7 +6,7 @@ Here we find linear relationship between year of experiecne and Annual Salary an
 ![Train set Viz.](viz_train.png)
 ![Test set Viz.](viz_test.png)
 
-### **A beginer level Exercise**
+**A beginer level Exercise**
 
 
 
